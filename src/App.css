@@ -31,8 +31,10 @@
   border-radius: 10px;
 }
 
-.time:before{
+#sub:before{
   content:" "; 
   display:inline-block; 
-  width:10px;
+  color: lightgray;
+  font-size: 40px;
+  width:15px;
 }
